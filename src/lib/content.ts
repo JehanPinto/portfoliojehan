@@ -89,7 +89,7 @@ const content: ContentType = {
     link: "#", // Link to downloadable resume
   },
   contact: {
-    email: "jehanhirusha@example.com",
+    email: "pintomjh.22@uom.lk",
     linkedin: "https://www.linkedin.com/in/jehan-pinto/",
     github: "https://github.com/JehanPinto",
     youtube: "https://youtube.com/yourchannel",
