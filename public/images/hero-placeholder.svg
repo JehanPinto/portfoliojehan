@@ -1,0 +1,19 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="200" cy="200" r="200" fill="#4B91F1" opacity="0.1"/>
+  
+  <!-- Inner circle -->
+  <circle cx="200" cy="200" r="150" fill="#4B91F1" opacity="0.2"/>
+  
+  <!-- Person icon -->
+  <circle cx="200" cy="160" r="40" fill="#4B91F1"/>
+  <path d="M120 320 C120 280 155 250 200 250 C245 250 280 280 280 320 L120 320 Z" fill="#4B91F1"/>
+  
+  <!-- Text -->
+  <text x="200" y="350" text-anchor="middle" fill="#4B91F1" font-family="Inter, sans-serif" font-size="16" font-weight="600">
+    Add Your Photo
+  </text>
+  <text x="200" y="370" text-anchor="middle" fill="#6B7280" font-family="Inter, sans-serif" font-size="12">
+    Replace hero.jpg
+  </text>
+</svg>
